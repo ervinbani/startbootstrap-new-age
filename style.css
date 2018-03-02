@@ -12,6 +12,7 @@ margin-top: 25px;
   color: white;
   text-align: center;
   padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .container{
@@ -35,8 +36,13 @@ margin-top: 25px;
 }
 #right{
   font-size: 20px;
-  text-align: left;
   padding-right: 150px;
 
+}
 
+*{
+  box-sizing: border-box;
+}
+input{
+  border: none;
 }
