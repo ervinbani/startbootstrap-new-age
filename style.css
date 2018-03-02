@@ -48,7 +48,22 @@ input{
 }
 #button {
   border: 1px solid white;
-background-color: #20c997;
+background-color: white;
 border-radius: 2px;
 padding-right: 310px;
+}
+button{
+  border: 1px solid white;
+  background-color: #20c997;
+  border-radius: 2px;
+}
+#button>button{
+  border: 1px solid #20c997;
+  width: 70px;
+  height: 50px;
+
+
+}
+a{
+  color:#20c997;
 }
