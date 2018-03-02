@@ -1,0 +1,28 @@
+.blackcontainer{
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+}
+.menu{
+margin-top: 25px;
+}
+
+.greencontainer{
+  background-color: #20c997;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.container{
+  color: black;
+  text-align: center;
+  padding-top: 20px;
+  text-align: center;
+  padding-bottom: 50px;
+
+}
+.container img {
+  height: 200px;
+
+}
