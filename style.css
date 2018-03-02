@@ -26,3 +26,17 @@ margin-top: 25px;
   height: 200px;
 
 }
+
+#left{
+  font-size: 20px;
+  text-align: left;
+  padding-left: 150px;
+
+}
+#right{
+  font-size: 20px;
+  text-align: left;
+  padding-right: 150px;
+
+
+}
