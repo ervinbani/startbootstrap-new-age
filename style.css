@@ -46,3 +46,9 @@ margin-top: 25px;
 input{
   border: none;
 }
+#button {
+  border: 1px solid white;
+background-color: #20c997;
+border-radius: 2px;
+padding-right: 310px;
+}
